@@ -1,0 +1,9 @@
+{
+"only": {
+"ownerBot": "⛔ Apenas o dono do bot pode utilizar esse comando",
+"admin": "⛔ Apenas administradores do grupo podem usar esse comando"
+},
+"miss": {
+"AFTERCMD": "Você precisa inserir um texto depois do comando"
+}
+}
