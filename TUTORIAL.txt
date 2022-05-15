@@ -1,0 +1,23 @@
+INSTALAÇÃO
+Instalação completa: https://youtu.be/rS4KqcyeMNE
+
+Se vc já instalou uma versão anterior de Darling Bot, você não precisa fazer todo o passo a passo de novo, sabia?
+Basta você descompactar o arquivo .zip (senha "tioMomonga") e sobreescrever a versão que você tinha antes.
+Digite "yarn" no termux e em seguida "npm start".
+Pronto, seu bot foi atualizado!
+
+
+COMO VIRAR DONO:
+Simplesmente abra o arquivo /lib/config.json e insira o seu número de telefone.
+exemplo: 
+55(DDD)SEU NUMERO@s.whatsapp.net.
+5517999999999@s.whatsapp.net
+
+////
+
+ERROS? BUGS? SUGESTÕES? 
+deixe um comentário em meus vídeos.
+
+
+até a proxima,
+tio Momonga
